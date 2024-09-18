@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m nearing the completion of my technical degree in Data Science and Artificial Intelligence. 🎓 
+Passionate about technology and dedicated to creating practical, impactful solutions. 🏷 
+A Lego enthusiast at heart 🧱, I also studied graphic design and enjoy illustration.
+
 <!--
 **Gerago157/Gerago157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
